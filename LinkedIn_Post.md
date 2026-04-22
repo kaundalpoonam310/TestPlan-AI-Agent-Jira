@@ -157,24 +157,62 @@ The AI understands context from JIRA tickets and generates structured, comprehen
 
 ---
 
-## 🎉 Try It Yourself!
-
-The project is now live and working. Steps to run:
-
-1. Clone the repository
-2. `cd backend && npm install && npm run dev`
-3. `cd frontend && npm install && npm run dev`
-4. Open http://localhost:5173
-5. Configure JIRA credentials in Settings
-6. Select your LLM provider (Groq recommended)
-7. Enter JIRA ticket ID and generate!
+## 🔗 Repository Link
+GitHub: [https://github.com/kaundalpoonam310/TestPlan-AI-Agent-Jira.git](https://github.com/kaundalpoonam310/TestPlan-AI-Agent-Jira.git)
 
 ---
 
-What repetitive QA tasks are eating up your time? Would love to hear about automation opportunities! 👇
+## 📱 LinkedIn Post Options
 
-#SoftwareTesting #QAEngineering #TestAutomation #LinkedIn #BuildInPublic #NodeJS #ReactJS #AI #Groq #JIRA
+### Option 1: The "Game Changer" (Problem/Solution)
+🚀 **Stop wasting time on manual test plans!**
+
+I just built a full-stack AI Agent that turns a Jira Ticket ID into a complete, structured Test Plan in under 30 seconds. ⚡
+
+**The Problem:** Spending 30+ mins copying Jira details, formatting docs, and manually writing scenarios for every ticket.
+**The Solution:** An intelligent automation agent that:
+✅ Syncs directly with Atlassian Jira
+✅ Parses acceptance criteria & priority
+✅ Generates test plans using Groq (Llama3) or Local Ollama
+✅ Maps output to your organization's PDF template
+
+**Tech Stack:** React, Node.js, SQLite, Groq Cloud, & Ollama.
+
+Check out the code here: https://github.com/kaundalpoonam310/TestPlan-AI-Agent-Jira.git
+
+#QA #SoftwareTesting #Automation #AI #Jira #BuildInPublic
 
 ---
 
-*Note: Happy to share the GitHub repo if there's interest!*
+### Option 2: The "Tech Deep Dive" (Stack-focused)
+Built an AI Test Plan Generator using the **B.L.A.S.T. protocol** for deterministic automation! 🤖🛠️
+
+This project explores the intersection of LLMs and QA workflows. Key technical highlights:
+🔹 **Hybrid LLM Support:** Switch between Groq (ultra-fast cloud inference) and Ollama (fully local/private).
+🔹 **Deterministic Output:** Uses structural extraction from PDF templates to ensure AI output matches company standards.
+🔹 **Secure-by-Design:** AES-256 encryption for Jira tokens and backend-only credential management.
+🔹 **Real-time UX:** SSE for streaming generation progress.
+
+Built with React 18, TypeScript, and Express. 
+
+Full source code: https://github.com/kaundalpoonam310/TestPlan-AI-Agent-Jira.git
+
+#NodeJS #ReactJS #LLM #Ollama #Groq #Engineering
+
+---
+
+### Option 3: The "Impact" (Short & Punchy)
+30 minutes ➡️ 30 seconds. 
+
+That’s how much time my new AI Agent saves per Jira ticket when generating test documentation. 
+
+Fetch data 🔄
+Analyze context 🧠
+Generate plan 📝
+Follow template 📋
+
+All automated. All secure. 
+
+Repo: https://github.com/kaundalpoonam310/TestPlan-AI-Agent-Jira.git
+
+#QAAutomation #Productivity #AI #Jira #Testing
